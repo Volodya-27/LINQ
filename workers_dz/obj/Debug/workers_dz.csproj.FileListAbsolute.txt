@@ -1,0 +1,7 @@
+C:\Users\linec\source\repos\workers_dz\workers_dz\bin\Debug\workers_dz.exe.config
+C:\Users\linec\source\repos\workers_dz\workers_dz\bin\Debug\workers_dz.exe
+C:\Users\linec\source\repos\workers_dz\workers_dz\bin\Debug\workers_dz.pdb
+C:\Users\linec\source\repos\workers_dz\workers_dz\obj\Debug\workers_dz.csprojAssemblyReference.cache
+C:\Users\linec\source\repos\workers_dz\workers_dz\obj\Debug\workers_dz.csproj.CoreCompileInputs.cache
+C:\Users\linec\source\repos\workers_dz\workers_dz\obj\Debug\workers_dz.exe
+C:\Users\linec\source\repos\workers_dz\workers_dz\obj\Debug\workers_dz.pdb
